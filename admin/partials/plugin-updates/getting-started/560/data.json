@@ -1,0 +1,92 @@
+{
+    "version": "5.6",
+    "header": {
+        "title": "5.6",
+        "description": "WP Travel Engine - Update Release Notes"
+    },
+    "sections": [
+        {
+            "title": "Welcome to WP Travel Engine 5.6",
+            "content": [
+                "WP Travel Engine 5.6 introduces a brand new homepage to explore WP Travel Engine even more.",
+                "This page highlights the new features and resources for users to provide an understanding of those features.",
+                "<a href=\"edit.php?post_type=booking&page=wptravelengine-admin-page\">Visit Home.</a>"
+            ],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Tutorials",
+            "content": [
+                "You have acces to all the official tutorials on the homepage. Our step-by-step video tutorials will help you to get familiar with WP Travel Engine and set up your travel website in no time.",
+                "<a href=\"edit.php?post_type=booking&page=wptravelengine-admin-page&page_tab=tutorials\">View Tutorials</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%tutorials.png",
+                    "caption": "Tutorials Tab"
+                }
+            ],
+            "classNames" : [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Themes and Plugins",
+            "content": [
+                "You can view all the WP Travel Engine compatible themes and extensions available from the dashboard.",
+                "<a href=\"edit.php?post_type=booking&page=wptravelengine-admin-page&page_tab=themes\">View Themes</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%themes.png",
+                    "caption": "Compatible Themes List"
+                },
+                {
+                    "src": "%assets_path_url%extensions.png",
+                    "caption": "Extensions by WP Travel Engine"
+                }
+            ],
+            "classNames": [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "FAQs",
+            "content": [
+                "Find frequently asked questions on the Plugin homepage.",
+                "<a href=\"edit.php?post_type=booking&page=wptravelengine-admin-page&page_tab=faqs\">View FAQs</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%faqs.png",
+                    "caption": "Faqs Section"
+                }
+            ],
+            "classNames" : [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Changelog",
+            "content": [
+                "Latest changelog can be viewed under What's New tab.",
+                "<a href=\"edit.php?post_type=booking&page=wptravelengine-admin-page&page_tab=changelog\">View Changelog</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%changelog.png",
+                    "caption": "Changelog Section"
+                }
+            ],
+            "classNames": [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        }
+    ]
+}

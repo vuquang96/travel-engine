@@ -1,0 +1,88 @@
+{
+    "version": "5.7",
+    "header": {
+        "title": "5.7",
+        "description": "WP Travel Engine - Update Release Notes"
+    },
+    "sections": [
+        {
+            "title": "Welcome to WP Travel Engine 5.7",
+            "content": [
+                "WP Travel Engine 5.7 introduces a brand new analytics page that offers a comprehensive view of your travel business's performance.",
+                "This page highlights the new features and resources for users to provide an understanding of those features.",
+                "<a href=\"admin.php?page=wp-travel-engine-analytics\">Visit Analytics.</a>"
+            ],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Overview",
+            "content": [
+                "This tab displays various critical data within a specific period, which you can adjust to suit your needs from the top right-hand corner of your screen. The \"Overview\" tab enhances your understanding of crucial insights through interactive charts and graphs.",
+                "<a href=\"admin.php?page=wp-travel-engine-analytics&page_tab=overview\">View Overview</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%overview.png",
+                    "caption": "Overview Tab"
+                }
+            ],
+            "classNames" : [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Trips",
+            "content": [
+                "This tab provides valuable details about your travel packages. You can also view the best selling trips including trip name, price, sales count, and payments received.",
+                "<a href=\"admin.php?page=wp-travel-engine-analytics&page_tab=trips\">View Trips</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%trips.png",
+                    "caption": "Trips Tab"
+                }
+            ],
+            "classNames": [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Customers",
+            "content": [
+                "This tab provides crucial insights into your customers, including: \"Total Customers\", \"New Customers\" & \"Most Valued Customer\".",
+                "<a href=\"admin.php?page=wp-travel-engine-analytics&page_tab=customers\">View Customers</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%customers.png",
+                    "caption": "Customers Tab"
+                }
+            ],
+            "classNames" : [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        },
+        {
+            "title": "Dashboard Widget",
+            "content": [
+                "The \"WP Travel Engine Booking Summary\" is a widget that gives you a clear and detailed view of your booking-related data in a simplified format.",
+                "<a href=\"index.php\">View Widget</a>"
+            ],
+            "images": [
+                {
+                    "src": "%assets_path_url%widget.png",
+                    "caption": "WPTE Dashboard Widget"
+                }
+            ],
+            "classNames" : [],
+            "attributes": {
+                "style": "margin-bottom:32px;"
+            }
+        }
+    ]
+}
